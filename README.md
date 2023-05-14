@@ -2,7 +2,7 @@ Example Voting App
 =========
 
 
-A simple venkateswarlu distributed application running across multiple Docker containers.
+A simple Venky Mallela distributed application running across multiple Docker containers.
 
 Getting started
 ---------------
