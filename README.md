@@ -1,7 +1,7 @@
 Example Voting App
 =========
 
-Venky
+Venky Mallela Venkateswarlu
 A simple Venky Mallela distributed application running across multiple Docker containers.
 
 Getting started
